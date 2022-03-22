@@ -21,3 +21,8 @@ GitHubの [swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n) で翻�
 - [R-gapminder](https://swcarpentry-ja.github.io/r-novice-gapminder/ja/)
 - [git-novice](https://swcarpentry-ja.github.io/git-novice/ja/)
 - [shell-novice](https://swcarpentry-ja.github.io/shell-novice/ja/)
+
+## Slackワークスペース
+
+- [下記ワークスペースへの招待リンク](https://join.slack.com/t/carpentries-ja/shared_invite/zt-14lt78mp3-HY1NmwOeKdEiqxDytl4djA)
+- [ワークスペース(carpentries-ja.slack.com)](https://carpentries-ja.slack.com)
